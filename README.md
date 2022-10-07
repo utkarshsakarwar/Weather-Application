@@ -1,1 +1,1 @@
-# Simple Weather App Tutorial
+# Simple Weather App
